@@ -1,0 +1,14 @@
+C:\Users\Tas Shustov\source\repos\BTS\BTS\bin\Debug\net8.0\BTS.exe
+C:\Users\Tas Shustov\source\repos\BTS\BTS\bin\Debug\net8.0\BTS.deps.json
+C:\Users\Tas Shustov\source\repos\BTS\BTS\bin\Debug\net8.0\BTS.runtimeconfig.json
+C:\Users\Tas Shustov\source\repos\BTS\BTS\bin\Debug\net8.0\BTS.dll
+C:\Users\Tas Shustov\source\repos\BTS\BTS\bin\Debug\net8.0\BTS.pdb
+C:\Users\Tas Shustov\source\repos\BTS\BTS\obj\Debug\net8.0\BTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tas Shustov\source\repos\BTS\BTS\obj\Debug\net8.0\BTS.AssemblyInfoInputs.cache
+C:\Users\Tas Shustov\source\repos\BTS\BTS\obj\Debug\net8.0\BTS.AssemblyInfo.cs
+C:\Users\Tas Shustov\source\repos\BTS\BTS\obj\Debug\net8.0\BTS.csproj.CoreCompileInputs.cache
+C:\Users\Tas Shustov\source\repos\BTS\BTS\obj\Debug\net8.0\BTS.dll
+C:\Users\Tas Shustov\source\repos\BTS\BTS\obj\Debug\net8.0\refint\BTS.dll
+C:\Users\Tas Shustov\source\repos\BTS\BTS\obj\Debug\net8.0\BTS.pdb
+C:\Users\Tas Shustov\source\repos\BTS\BTS\obj\Debug\net8.0\BTS.genruntimeconfig.cache
+C:\Users\Tas Shustov\source\repos\BTS\BTS\obj\Debug\net8.0\ref\BTS.dll
